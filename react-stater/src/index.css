@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Gotham-Book';
+  src: local('Gotham-Book'), url(./Assets/fonts/Gotham-Book.otf) format('woff');
+}
+
+@font-face {
+  font-family: 'Gotham-Medium';
+  src: local('Gotham-Medium'), url(./Assets/fonts/Gotham-Medium.otf) format('woff');
+}
+/* 
+body {
+  font-family: 'Gotham-Book','Gotham-Medium', -apple-system, 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+} */
+
+
