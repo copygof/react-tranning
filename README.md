@@ -10,12 +10,13 @@
 - Javascript and Functional programing for react
   - let vs const
   - Immutable
+  - Object spread and destructuring
   - Pure function
-  - Height order function
+  - Higher order function
   - Curry function
   - Closure
   - Function composition
-  - map, reduce, filter, some, find
+  - map, filter, some, find, reduce
 - JSX and element
 - Rendering
   - Basic render
