@@ -14,6 +14,7 @@ const userInfo = {
   ...userDetail,
   ...address,
 }
+
 // Or use Object.assign
 const userInfos = Object.assign({}, userDetail, address)
 
@@ -23,5 +24,5 @@ const userInfos = Object.assign({}, userDetail, address)
 // userDetail.addressLine1 = address.addressLine1
 // const userDetails = userDetail
 
-console.log('userInfo => ', userDetails)
+console.log('userInfo => ', userInfo)
 console.log('userDetail => ', userDetail)

@@ -6,6 +6,7 @@ const userDetail = {
   age: 14
 }
 
-const name = userDetail.name
+// const name = userDetail.name
+let {name} = userDetail
 
 console.log('UserName => ', name)

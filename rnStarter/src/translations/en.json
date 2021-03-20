@@ -1,0 +1,13 @@
+{
+  "appName": "RN Starter",
+  "languages": {
+    "en": "English",
+    "th": "Thailand"
+  },
+  "common": {
+    "ok": "OK",
+    "cancel": "Cancel",
+    "next": "Next",
+    "complete": "Complete"
+  }
+}

@@ -6,8 +6,8 @@ const userDetail = {
   age: 14
 }
 
-function logUserName(user) {
-  console.log('UserName => ', user.name)
+function logUserName({ name }) {
+  console.log('UserName => ', name)
 }
 
 logUserName(userDetail)
