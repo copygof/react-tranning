@@ -1,6 +1,5 @@
 const ImageSource = {
   // Example for defined image source
-  // BANPU_NEXT: require('./images/banpunext.png'),
 }
 
 const IconSource = {
